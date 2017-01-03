@@ -1,0 +1,9 @@
+section {background-color: lightgrey;
+border: 1px black solid; width: 80%; margin: auto; padding-left: 25px;}
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {display: block; text-align: center; border-bottom: 1px solid black; width: 60%; padding-top: 15px; height: 2em; margin:auto; margin-bottom: 25px;}
+
+span { background-color: white; font-size: 1em; text-align: left; font-weight: normal;}
+
+article { margin-bottom: 50px; font-size: 1em; text-align: left; font-weight: normal;}
