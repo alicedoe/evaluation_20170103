@@ -1,4 +1,4 @@
-﻿##ECOSYSTEME
+##ECOSYSTEM
 #L’informatique est la science:
 -des dispositifs dont le fonctionnement dépend de la circulation d’électrons.
 -des signaux électriques porteurs d’informations ou d’énergie.
